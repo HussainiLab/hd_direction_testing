@@ -4,7 +4,7 @@ def get_head_direction(pos_x, pos_y):
             
             Will compute the head direction.
             Parameters: 
-                pos_x, pos_y: 1D arrays of x and y coordinates and time array.
+                pos_x, pos_y: 1D arrays of x and y coordinates.
                 
                 
             Returns: 
